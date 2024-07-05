@@ -20,9 +20,7 @@
 #lang: ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 데이터 공부하는\n
-                       \n                       
-                       해파리
+title:                 데이터 공부하는 해파리
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
